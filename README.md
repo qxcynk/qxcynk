@@ -12,7 +12,6 @@
 	
 I'm a `Systems Analysis and Development` student at `Leonardo da Vinci University Center` **(UNIASSELVI)**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
 
-Currently, I am an **Apprentice** at `Alterdata Software` within the `Suport Cirrus team`, providing technical support.
 </div>
 
  - 👨‍💻 Skilled in **Python** & **Java**, applying it in practical projects and studies.  
